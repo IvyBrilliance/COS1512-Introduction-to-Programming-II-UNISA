@@ -31,3 +31,5 @@ More lessons coming soon:
 Stay subscribed on YouTube for updates.
 
 --
+
+ scope resolution operator ::
