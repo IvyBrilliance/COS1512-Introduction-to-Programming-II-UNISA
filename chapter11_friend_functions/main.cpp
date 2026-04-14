@@ -34,13 +34,8 @@ int main() {
 }
 
 // constructors:
-DayOfYear::DayOfYear() {
-	day = 1;
-	month = 1;
-}
-DayOfYear::DayOfYear(int theMonth, int theDay) : month(theMonth), day(theDay) {
-	
-}
+DayOfYear::DayOfYear(): month(0), day(0) {}
+DayOfYear::DayOfYear(int theMonth, int theDay) : month(theMonth), day(theDay) {}
 
 // the new equal function: friend function:
 bool equal(DayOfYear date1, DayOfYear date2) {
@@ -48,13 +43,14 @@ bool equal(DayOfYear date1, DayOfYear date2) {
 }
 
 // getters:
-int DayOfYear::getMonth()
-{
-	return month;
-}
-int DayOfYear::getDay()
-{
-	return day;
-}
+int DayOfYear::getMonth() { return month; }
+int DayOfYear::getDay() { return day; }
+
+
+
+
+
+
+
 
 
