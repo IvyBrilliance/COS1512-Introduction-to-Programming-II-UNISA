@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1785933664 source:c:\users\thomasmuller\documents\projects\cos1512-introduction-to-programming-ii-unisa\chapter10_defining_classes\abstraction\abstraction2\src\vehicle.cpp
+	"Vehicle.h"
+
+1785933597 c:\users\thomasmuller\documents\projects\cos1512-introduction-to-programming-ii-unisa\chapter10_defining_classes\abstraction\abstraction2\include\vehicle.h
+	<iostream>
+	<string>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1785928437 source:c:\users\thomasmuller\documents\projects\cos1512-introduction-to-programming-ii-unisa\test2\src\vehicle.cpp
+	"Vehicle.h"
+
+1785929894 c:\users\thomasmuller\documents\projects\cos1512-introduction-to-programming-ii-unisa\test2\include\vehicle.h
+	<string>
+	<iostream>
+
+1785929779 source:c:\users\thomasmuller\documents\projects\cos1512-introduction-to-programming-ii-unisa\test2\main.cpp
+	<iostream>
+	"Vehicle.h"
+

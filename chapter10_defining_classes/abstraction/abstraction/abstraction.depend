@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1785930990 source:c:\users\thomasmuller\documents\projects\cos1512-introduction-to-programming-ii-unisa\chapter10_defining_classes\abstraction\abstraction\main.cpp
+	<iostream>
+	<string>
+
